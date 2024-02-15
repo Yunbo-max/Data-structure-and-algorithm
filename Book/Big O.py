@@ -1,3 +1,8 @@
+# -*- coding: utf-8 -*-
+# @Author: Yunbo
+# @Date:   2024-01-11 23:11:38
+# @Last Modified by:   Yunbo
+# @Last Modified time: 2024-02-15 22:43:25
 # import time
 # def sum_of_n_2(n):
 #     start = time.time()

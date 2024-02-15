@@ -1,3 +1,8 @@
+# -*- coding: utf-8 -*-
+# @Author: Yunbo
+# @Date:   2024-01-11 23:11:38
+# @Last Modified by:   Yunbo
+# @Last Modified time: 2024-02-15 22:43:26
 # bases
 # 五种数据格式+输入输出+不同于错误的异常处理+面向对象(逻辑门电路+模拟森林火灾)+继承+鸭子接口
 import numpy as np
